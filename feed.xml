@@ -5,7 +5,7 @@
     
     <link href="http://note.dofine.me" />
     
-    <updated>2012-03-27T12:39:19Z</updated>
+    <updated>2012-03-27T12:45:57Z</updated>
     <id>http://note.dofine.me</id>
     <entry>
         <title type="html"><![CDATA[just a test file]]></title>
@@ -19,9 +19,7 @@
         <content type="html" xml:base="http://note.dofine.me" xml:lang="en">
             <![CDATA[ <p>Hello LiquidLuck blog system.</p>
 <p>Just some python code.</p>
-<p><code>python
-import os
-print "hello world"</code></p> ]]>
+<div class="code"><div class="highlight"><pre><span class="kn">import</span> <span class="nn">os</span><br /><span class="k">print</span> <span class="s">&quot;hello world&quot;</span><br /></pre></div><br /></div> ]]>
         </content>
     </entry>
     </feed>
