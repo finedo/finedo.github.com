@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>my blog</title>
+    <link href="http://note.dofine.me/feed.xml" rel="self" />
+    
+    <link href="http://note.dofine.me" />
+    
+    <updated>2012-03-27T12:39:19Z</updated>
+    <id>http://note.dofine.me</id>
+    <entry>
+        <title type="html"><![CDATA[just a test file]]></title>
+        <author><name>dofine</name><uri>http://note.dofine.me</uri></author>
+        <link href="http://note.dofine.me/2012/test.html"/>
+        <updated>2012-03-27T00:00:00Z</updated>
+        <published>2012-03-27T00:00:00Z</published>
+        <id>http://note.dofine.me/2012/test.html</id>
+        <category scheme="http://note.dofine.me/tag/test/" term="test" label="Test" />
+        <category scheme="http://note.dofine.me/tag/hello world/" term="hello world" label="Hello World" />
+        <content type="html" xml:base="http://note.dofine.me" xml:lang="en">
+            <![CDATA[ <p>Hello LiquidLuck blog system.</p>
+<p>Just some python code.</p>
+<p><code>python
+import os
+print "hello world"</code></p> ]]>
+        </content>
+    </entry>
+    </feed>
